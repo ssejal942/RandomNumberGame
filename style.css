@@ -1,0 +1,26 @@
+hr {
+    width: 350px;
+    position: relative;
+    right:47%;
+    margin-bottom: 1%;
+    border: solid 1px black;
+}
+#btn1 , #btn2 , #btn3 , #btn4 , #btn5 {
+    width: 100px;
+    height: 50px;
+    margin-top: 1%;
+    margin-left: 2%;
+    font-size: medium;
+}
+.player1 , .player2 {
+    font-size: larger;
+    font-weight: 500;
+}
+#second , #third , #fourth , #fifth , #final {
+    display: none;
+}
+#result {
+    font-size: larger;
+    font-weight: 500;
+}
+
